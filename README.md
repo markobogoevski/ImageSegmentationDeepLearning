@@ -5,3 +5,5 @@ This repository accumulates code for the implementation of various often used de
 Result folders for CamVid and MSRC (using DeepLab) dataset link : 
 Result folders for pix2pix link : 
 Application video link : 
+
+*** There was no way to insert the model due to its size, so a video of the application is provided alongside the code, but the .py file won't work because the model isn't imported.
